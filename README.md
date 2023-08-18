@@ -1,5 +1,11 @@
 ## Hi there, I'm Stephan 👋
 
+### Check out [viasp](https://github.com/stephanzwicknagl/viasp)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stephanzwicknagl/viasp/main?filepath=examples%2FIntroduction%20to%20viASP.ipynb)
+
+
+
+
 ### 📊 Github Stats
 <!-- ![Stephan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephanzwicknagl&show_icons=true&theme=synthwave) -->
 
