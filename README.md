@@ -14,10 +14,10 @@
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
 ![Clingo](https://img.shields.io/badge/-Clingo-006490)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
 ### ⛹️ I dabble in
 
 ![Nextcloud](https://img.shields.io/badge/-Nextcloud-0082C9?logo=nextcloud&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=raspberry-pi&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white)
